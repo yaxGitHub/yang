@@ -1,0 +1,2 @@
+# yang
+a sample blog
